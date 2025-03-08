@@ -12,7 +12,6 @@ Uma extensão simples para o Chrome usando Manifest V3.
 ## Estrutura do Projeto
 
 - `manifest.json`: Arquivo de configuração da extensão
-- `popup.html`: Interface do usuário da extensão
 - `popup.js`: Lógica JavaScript da extensão
 - `icon.png`: Ícone da extensão
 

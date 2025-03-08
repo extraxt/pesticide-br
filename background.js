@@ -1,5 +1,3 @@
-let isEnabled = false;
-
 chrome.action.onClicked.addListener((tab) => {
   function toggleStyle() {
     const styleId = "pesticide-br-style";
